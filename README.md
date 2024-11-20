@@ -1,9 +1,8 @@
 ## Api 
 [APi testing DOC](https://docs.google.com/document/d/1QUy-ZQSfHlXzNZCYVWSTKFziNqBT47BCdvjwNZj-jNg/edit?usp=sharing)
-## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
+## End points
+https://docs.google.com/document/d/1QUy-ZQSfHlXzNZCYVWSTKFziNqBT47BCdvjwNZj-jNg/edit?usp=sharing
 ## Project setup
 
 ```bash
