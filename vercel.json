@@ -1,8 +1,5 @@
 {
     "version": 2,
-    "env": {
-        "DB_URI": "@DB_URI"
-    },
     "builds": [
         {
             "src": "src/main.ts",
